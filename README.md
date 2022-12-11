@@ -2,7 +2,7 @@
 Aqui en este repositorio subiré todos los trabajos que he entregado en mi carrera de Ingenieria de Computacion en la Universidad Jose Antonio Paez
 Nota: Solo proyectos; los examenes no los subire porque no los tengo :)
 Indice por Semestre:
-3er Semestre  -> Materias: Programacion 2             -> Profesor: Ing. Argenis Rodriguez   -> Lenguaje: Python
+\n3er Semestre  -> Materias: Programacion 2             -> Profesor: Ing. Argenis Rodriguez   -> Lenguaje: Python
 4to Semestre  -> Materias: Algoritmos y Estructuras 1 -> Profesor: Ing. Jose Saavedra       -> Lenguajes: Java y SQL
                            Logica Simbolica           -> Profesor: Ing. Mayerlin Maldonado  -> Lenguajes: Python y Java     
                                                   .: Sin Cursar :.
