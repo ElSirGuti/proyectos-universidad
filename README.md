@@ -3,27 +3,61 @@ Aqui en este repositorio subiré todos los trabajos que he entregado en mi carre
 
 Nota: Solo proyectos; los examenes no los subire porque no los tengo :)
 
-Indice por Semestre:
+3er Semestre
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Materias: Programacion 2 <br>
+Profesor: Ing. Argenis Rodriguez <br>
+Lenguaje: Python <br>
 
-3er Semestre  -> Materias: Programacion 2             -> Profesor: Ing. Argenis Rodriguez   -> Lenguaje: Python
+4to Semestre
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Materia: Algoritmos y Estructuras 1 <br>
+Profesor: Ing. Jose Saavedra <br>
+Lenguajes: Java y SQL <br>
 
-4to Semestre  -> Materias: Algoritmos y Estructuras 1 -> Profesor: Ing. Jose Saavedra       -> Lenguajes: Java y SQL
+Materia: Logica Simbolica <br>
+Profesor: Ing. Mayerlin Maldonado <br>
+Lenguajes: Python y Java <br>
 
-                           Logica Simbolica           -> Profesor: Ing. Mayerlin Maldonado  -> Lenguajes: Python y Java    
-                           
-                                                  .: Sin Cursar :.
+Sin Cursar
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   
-5to Semestre  -> Materias: Algoritmos y Estructuras 2 -> Profesor: Ing. Argenis Rodriguez   -> Lenguaje: Python
+5to Semestre
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Materia: Algoritmos y Estructuras 2 <br>
+Profesor: Ing. Argenis Rodriguez <br>
+Lenguaje: Python <br>
 
-                           Programacion Web           -> Profesor: Ing Jose Miranda         -> Lenguajes: Html, CSS, JavaScript, PHP
-                           
-6to Semestre  ->
+Materia: Programacion Web <br>
+Profesor: Ing. Jose Miranda <br>
+Lenguajes: HTML, CSS, JavaScript, PHP <br>   
 
-7mo Semestre  ->
+6to Semestre
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Materia: <br>
+Profesor: <br>
+Lenguaje: <br>
 
-8vo Semestre  ->
+7mo Semestre
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Materia: <br>
+Profesor: <br>
+Lenguaje: <br>
 
-9no Semestre  ->
+8vo Semestre
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Materia: <br>
+Profesor: <br>
+Lenguaje: <br>
 
+9no Semestre
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Materia: <br>
+Profesor: <br>
+Lenguaje: <br>
 
-10mo Semestre ->
+10mo Semestre
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Materia: <br>
+Profesor: <br>
+Lenguaje: <br>
