@@ -3,7 +3,7 @@ Aqui en este repositorio subiré todos los trabajos que he entregado en mi carre
 
 Nota: Solo proyectos; los examenes no los subire porque no los tengo :)
 
-3er Semestre (2022) 2022-2CR
+3er Semestre (Junio 2022 - Octubre 2022) 2022-2CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materias: Programacion 2 <br>
 Profesor: Ing. Argenis Rodriguez <br>
