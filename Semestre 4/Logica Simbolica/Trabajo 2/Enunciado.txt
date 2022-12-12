@@ -1,0 +1,8 @@
+Hacer un programa que prediga quien va a ganar el mundial de Qatar 2022 con las siguientes funciones:
+1) Ganador del Mundial
+2) Mejor Jugador
+3) Goleador
+4) Finalistas
+5) Estadisticas por equipo finalista
+
+Nota: Abrir la carpeta Mundial_Prediccion en Netbeans :)
