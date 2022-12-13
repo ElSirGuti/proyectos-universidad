@@ -1,3 +1,6 @@
+# Realizar una calculadora de operaciones con conjuntos
+# Hecho por Andrés Gutiérrez
+
 import random
 ################################################################################################################################################
 conjunto_u = []
