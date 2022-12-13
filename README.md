@@ -5,12 +5,16 @@ Nota: Solo proyectos; los examenes no los subire porque no los tengo :)
 
 3er Semestre (Junio 2022 - Octubre 2022) 2022-2CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Materias: Programacion 2 <br>
+Materia: Programacion 2 <br>
 Profesor: Ing. Argenis Rodriguez <br>
 Lenguaje: Python <br>
 
 4to Semestre (Octubre/Noviembre 2022 - Febrero 2023) 2022-3CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Materia: Programacion 3 <br>
+Profesor: Ing. Francisco Duran <br>
+Lenguajes: Java <br>
+
 Materia: Algoritmos y Estructuras 1 <br>
 Profesor: Ing. Jose Saavedra <br>
 Lenguajes: Java y SQL <br>
