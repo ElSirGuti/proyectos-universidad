@@ -36,7 +36,7 @@ Materia: Programacion Web <br>
 Profesor: Ing. Jose Miranda <br>
 Lenguajes: HTML, CSS, JavaScript, PHP <br>   
 
-6to Semestre (Agosto 2023 - Diciembre 2023) 2023-2CR
+6to Semestre (Julio 2023 - Noviembre 2023) 2023-2CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Sistema de Bases de Datos <br>
 Profesor: Ing. Juan Perez <br>
@@ -46,7 +46,7 @@ Materia: Sistema de Programas <br>
 Profesor: Ing. Rosa Ortega <br>
 Lenguaje: <br>
 
-7mo Semestre (Enero 2024 - Mayo 2024) 2024-1CR
+7mo Semestre (Noviembre 2023 - Abril 2024) 2023-3CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Programacion Matematica <br>
 Profesor: Ing. Alexander Deyan <br>
@@ -56,13 +56,13 @@ Materia: Lenguaje de Programacion <br>
 Profesor: Ing. Susan Leon <br>
 Lenguaje: <br>
 
-8vo Semestre (Julio 2024 - Noviembre 2024) 2024-2CR
+8vo Semestre (Abril 2024 - Agosto 2024) 2024-1CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Interfaces con el Usuario <br>
 Profesor: Ing. Jose Saavedra <br>
 Lenguaje: <br>
 
-9no Semestre (Diciembre 2024 - Marzo 2025) 2024-3CR
+9no Semestre (Agosto 2024 - Diciembre 2024) 2024-2CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Trabajo de Grado 1 <br>
 Profesor: <br>
@@ -72,7 +72,7 @@ Materia: Ingenieria del Software <br>
 Profesor: Ing. Alexander Deyan <br>
 Lenguajes: <br>
 
-10mo Semestre (Abril 2025 - Agosto 2025) 2025-1CR
+10mo Semestre (Enero 2025 - Mayo 2025) 2025-1CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Trabajo de Grado 2 <br>
 Profesor: <br>
