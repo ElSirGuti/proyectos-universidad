@@ -17,7 +17,7 @@ Lenguajes: Java <br>
 
 Materia: Algoritmos y Estructuras 1 <br>
 Profesor: Ing. Jose Saavedra <br>
-Lenguajes: Java y SQL <br>
+Lenguajes: Java y MySQL <br>
 
 Materia: Logica Simbolica <br>
 Profesor: Ing. Mayerlin Maldonado <br>
