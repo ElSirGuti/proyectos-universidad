@@ -1,0 +1,440 @@
+Conjunciones con P 
+p y q
+p y r
+p y s
+p y t
+p y u
+p y v
+p y w
+p y x
+p y y
+
+Disyunciones con P 
+p o q
+p o r
+p o s
+p o t
+p o u
+p o v
+p o w
+p o x
+p o y
+
+Condicionales con P 
+p si q
+p si r
+p si s
+p si t
+p si u
+p si v
+p si w
+p si x
+p si y
+
+Bicondicionales con P 
+p si y solo si q
+p si y solo si r
+p si y solo si s
+p si y solo si t
+p si y solo si u
+p si y solo si v
+p si y solo si w
+p si y solo si x
+p si y solo si y
+
+Conjunciones con Q 
+q y p
+q y r
+q y s
+q y t
+q y u
+q y v
+q y w
+q y x
+q y y
+
+Disyunciones con Q 
+q o p
+q o r
+q o s
+q o t
+q o u
+q o v
+q o w
+q o x
+q o y
+
+Condicionales con Q 
+q si p
+q si r
+q si s
+q si t
+q si u
+q si v
+q si w
+q si x
+q si y
+
+Bicondicionales con Q 
+q si y solo si p
+q si y solo si r
+q si y solo si s
+q si y solo si t
+q si y solo si u
+q si y solo si v
+q si y solo si w
+q si y solo si x
+q si y solo si y
+
+Conjunciones con R 
+r y q
+r y p
+r y s
+r y t
+r y u
+r y v
+r y w
+r y x
+r y y
+
+Disyunciones con R 
+r o q
+r o p
+r o s
+r o t
+r o u
+r o v
+r o w
+r o x
+r o y
+
+Condicionales con R 
+r si q
+r si p
+r si s
+r si t
+r si u
+r si v
+r si w
+r si x
+r si y
+
+Bicondicionales con R 
+r si y solo si q
+r si y solo si p
+r si y solo si s
+r si y solo si t
+r si y solo si u
+r si y solo si v
+r si y solo si w
+r si y solo si x
+r si y solo si y
+
+Conjunciones con S 
+s y q
+s y r
+s y p
+s y t
+s y u
+s y v
+s y w
+s y x
+s y y
+
+Disyunciones con S 
+s o q
+s o r
+s o p
+s o t
+s o u
+s o v
+s o w
+s o x
+s o y
+
+Condicionales con S 
+s si q
+s si r
+s si p
+s si t
+s si u
+s si v
+s si w
+s si x
+s si y
+
+Bicondicionales con S 
+s si y solo si q
+s si y solo si r
+s si y solo si p
+s si y solo si t
+s si y solo si u
+s si y solo si v
+s si y solo si w
+s si y solo si x
+s si y solo si y
+
+Conjunciones con T 
+t y q
+t y r
+t y s
+t y p
+t y u
+t y v
+t y w
+t y x
+t y y
+
+Disyunciones con T 
+t o q
+t o r
+t o s
+t o p
+t o u
+t o v
+t o w
+t o x
+t o y
+
+Condicionales con T 
+t si q
+t si r
+t si s
+t si p
+t si u
+t si v
+t si w
+t si x
+t si y
+
+Bicondicionales con T 
+t si y solo si q
+t si y solo si r
+t si y solo si s
+t si y solo si p
+t si y solo si u
+t si y solo si v
+t si y solo si w
+t si y solo si x
+t si y solo si y
+
+Conjunciones con U 
+u y q
+u y r
+u y s
+u y t
+u y p
+u y v
+u y w
+u y x
+u y y
+
+Disyunciones con U 
+u o q
+u o r
+u o s
+u o t
+u o p
+u o v
+u o w
+u o x
+u o y
+
+Condicionales con U 
+u si q
+u si r
+u si s
+u si t
+u si p
+u si v
+u si w
+u si x
+u si y
+
+Bicondicionales con U 
+u si y solo si q
+u si y solo si r
+u si y solo si s
+u si y solo si t
+u si y solo si p
+u si y solo si v
+u si y solo si w
+u si y solo si x
+u si y solo si y
+
+Conjunciones con V 
+v y q
+v y r
+v y s
+v y t
+v y u
+v y p
+v y w
+v y x
+v y y
+
+Disyunciones con V 
+v o q
+v o r
+v o s
+v o t
+v o u
+v o p
+v o w
+v o x
+v o y
+
+Condicionales con V 
+v si q
+v si r
+v si s
+v si t
+v si u
+v si p
+v si w
+v si x
+v si y
+
+Bicondicionales con V 
+v si y solo si q
+v si y solo si r
+v si y solo si s
+v si y solo si t
+v si y solo si u
+v si y solo si p
+v si y solo si w
+v si y solo si x
+v si y solo si y
+
+Conjunciones con W 
+w y q
+w y r
+w y s
+w y t
+w y u
+w y v
+w y p
+w y x
+w y y
+
+Disyunciones con W 
+w o q
+w o r
+w o s
+w o t
+w o u
+w o v
+w o p
+w o x
+w o y
+
+Condicionales con W 
+w si q
+w si r
+w si s
+w si t
+w si u
+w si v
+w si p
+w si x
+w si y
+
+Bicondicionales con W 
+w si y solo si q
+w si y solo si r
+w si y solo si s
+w si y solo si t
+w si y solo si u
+w si y solo si v
+w si y solo si p
+w si y solo si x
+w si y solo si y
+
+Conjunciones con X 
+x y q
+x y r
+x y s
+x y t
+x y u
+x y v
+x y w
+x y p
+x y y
+
+Disyunciones con X 
+x o q
+x o r
+x o s
+x o t
+x o u
+x o v
+x o w
+x o p
+x o y
+
+Condicionales con X 
+x si q
+x si r
+x si s
+x si t
+x si u
+x si v
+x si w
+x si p
+x si y
+
+Bicondicionales con X 
+x si y solo si q
+x si y solo si r
+x si y solo si s
+x si y solo si t
+x si y solo si u
+x si y solo si v
+x si y solo si w
+x si y solo si p
+x si y solo si y
+
+Conjunciones con Y 
+y y q
+y y r
+y y s
+y y t
+y y u
+y y v
+y y w
+y y x
+y y p
+
+Disyunciones con Y 
+y o q
+y o r
+y o s
+y o t
+y o u
+y o v
+y o w
+y o x
+y o p
+
+Condicionales con Y 
+y si q
+y si r
+y si s
+y si t
+y si u
+y si v
+y si w
+y si x
+y si p
+
+Bicondicionales con Y 
+y si y solo si q
+y si y solo si r
+y si y solo si s
+y si y solo si t
+y si y solo si u
+y si y solo si v
+y si y solo si w
+y si y solo si x
+y si y solo si p
+
