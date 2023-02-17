@@ -68,6 +68,10 @@ Materia: Lenguaje de Programacion <br>
 Profesor: Ing. Susan Leon <br>
 Lenguaje: <br>
 
+Materia: Traductores e Interpretadores <br>
+Profesor: Ing. Susan Leon <br>
+Lenguaje: <br>  
+
 8vo Semestre (Abril 2024 - Agosto 2024) 2024-1CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Interfaces con el Usuario <br>
