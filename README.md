@@ -36,6 +36,14 @@ Materia: Programacion Web <br>
 Profesor: Ing. Jose Miranda <br>
 Lenguajes: HTML, CSS, JavaScript, PHP <br>   
 
+Materia: Estructuras Discretas 1<br>
+Profesor: Ing. Susan Leon <br>
+Lenguaje: <br>   
+
+Materia: Calculo Numerico <br>
+Profesor: Ing. Alexander Deyan <br>
+Lenguaje: MATLAB <br>
+
 6to Semestre (Julio 2023 - Noviembre 2023) 2023-2CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Sistema de Bases de Datos <br>
@@ -46,11 +54,15 @@ Materia: Sistema de Programas <br>
 Profesor: Ing. Rosa Ortega <br>
 Lenguaje: <br>
 
+Materia: Estructuras Discretas 2<br>
+Profesor: Ing. Susan Leon <br>
+Lenguaje: <br>   
+
 7mo Semestre (Noviembre 2023 - Abril 2024) 2023-3CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Programacion Matematica <br>
 Profesor: Ing. Alexander Deyan <br>
-Lenguaje: MATLAB <br>
+Lenguaje: <br>
 
 Materia: Lenguaje de Programacion <br>
 Profesor: Ing. Susan Leon <br>
