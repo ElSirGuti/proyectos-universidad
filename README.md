@@ -31,11 +31,11 @@ Lenguaje: Python <br>
 
 Materia: Programacion Web <br>
 Profesor: Ing. Jose Miranda <br>
-Lenguajes: HTML, CSS, JavaScript, PHP <br>   
+Lenguajes y Frameworks: HTML, CSS, JavaScript, jQuery, PHP, MySQL <br>   
 
 Materia: Estructuras Discretas 1<br>
 Profesor: Ing. Susan Leon <br>
-Lenguaje: <br>   
+Lenguaje: Java y Python<br>   
 
 Materia: Calculo Numerico <br>
 Profesor: Ing. Alexander Deyan <br>
