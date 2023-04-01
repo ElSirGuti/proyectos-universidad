@@ -24,7 +24,7 @@ function Programa()
     disp(A)
     
     % Sobreescribimos tambien el vector b
-    b = [38; -45; -64];
+    b = [38; -45; -19];
     disp('Vector vertical b:')
     disp(b)
     
