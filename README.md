@@ -11,7 +11,7 @@ Lenguaje: Python <br>
 
 <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%204">4to Semestre (Octubre/Noviembre 2022 - Febrero 2023) 2022-3CR</a>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Materia: ;a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%204/Programacion%203">Programacion 3</a><br>
+Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%204/Programacion%203">Programacion 3</a><br>
 Profesor: Ing. Francisco Duran <br>
 Lenguajes: Java <br>
 
