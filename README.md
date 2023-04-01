@@ -3,8 +3,8 @@ Aqui en este repositorio subiré todos los trabajos que he entregado en mi carre
 
 Nota: Solo proyectos; los examenes no los subire porque no los tengo :)
 
-3er Semestre (Junio 2022 - Octubre 2022) 2022-2CR
-<hr size="1px" noshade>
+<a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%203">3er Semestre (Junio 2022 - Octubre 2022) 2022-2CR</a>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Programacion 2 <br>
 Profesor: Ing. Argenis Rodriguez <br>
 Lenguaje: Python <br>
