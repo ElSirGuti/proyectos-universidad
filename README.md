@@ -4,7 +4,7 @@ Aqui en este repositorio subiré todos los trabajos que he entregado en mi carre
 Nota: Solo proyectos; los examenes no los subire porque no los tengo :)
 
 3er Semestre (Junio 2022 - Octubre 2022) 2022-2CR
-<hr height="2">
+<hr width="90%">
 Materia: Programacion 2 <br>
 Profesor: Ing. Argenis Rodriguez <br>
 Lenguaje: Python <br>
