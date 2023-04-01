@@ -2,7 +2,8 @@
 # Algoritmos y Estructuras 2
 # Andrés Gutiérrez
 
-# Calcular el área de un rectángulo donde su base y altura hayan sido introducidas por el usuario.
+# calcular el perímetro de un rectángulo donde su base y su altura sea
+# introducida por el usuario.
 
 def areaRec(base, altura):
     aResultado = base * altura
