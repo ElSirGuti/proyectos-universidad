@@ -5,27 +5,27 @@ Nota: Solo proyectos; los examenes no los subire porque no los tengo :)
 
 <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%203">3er Semestre (Junio 2022 - Octubre 2022) 2022-2CR</a>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Materia: Programacion 2 <br>
+Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%203">Programacion 2</a> <br>
 Profesor: Ing. Argenis Rodriguez <br>
 Lenguaje: Python <br>
 
-4to Semestre (Octubre/Noviembre 2022 - Febrero 2023) 2022-3CR
+<a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%204">4to Semestre (Octubre/Noviembre 2022 - Febrero 2023) 2022-3CR</a>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Materia: Programacion 3 <br>
+Materia: ;a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%204/Programacion%203">Programacion 3</a><br>
 Profesor: Ing. Francisco Duran <br>
 Lenguajes: Java <br>
 
-Materia: Algoritmos y Estructuras 1 <br>
+Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%204/Algoritmos%20y%20Estructuras%201">Algoritmos y Estructuras 1</a> <br>
 Profesor: Ing. Jose Saavedra <br>
 Lenguajes: Java y MySQL <br>
 
-Materia: Logica Simbolica <br>
+Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%204/Logica%20Simbolica">Logica Simbolica</a><br>
 Profesor: Ing. Mayerlin Maldonado <br>
 Lenguajes: Python y Java <br>
                                                   
-5to Semestre (Marzo 2023 - Julio 2023) 2023-1CR
+<a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%205">5to Semestre (Marzo 2023 - Julio 2023) 2023-1CR</a>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Materia: Algoritmos y Estructuras 2 <br>
+Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%205/Algoritmos%20y%20Estructuras%202">Algoritmos y Estructuras 2</a> <br>
 Profesor: Ing. Argenis Rodriguez <br>
 Lenguaje: Python <br>
 
@@ -35,9 +35,9 @@ Lenguajes y Frameworks: HTML, CSS, JavaScript, jQuery, PHP, MySQL <br>
 
 Materia: Estructuras Discretas 1<br>
 Profesor: Ing. Susan Leon <br>
-Lenguaje: Java y Python<br>   
+Lenguaje: <br>   
 
-Materia: Calculo Numerico <br>
+Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%205/Calculo%20Numerico">Calculo Numerico</a> <br>
 Profesor: Ing. Alexander Deyan <br>
 Lenguaje: MATLAB <br>
 
