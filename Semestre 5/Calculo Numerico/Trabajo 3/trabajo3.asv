@@ -1,0 +1,27 @@
+function trabajo3()
+    % Define the function to be integrated
+    f = @(x) exp(1).^x./x;
+
+    % Define the interval of integration
+    a = 4;
+    b = 2;
+
+    % Define the number of subdivisions
+    n = 4;
+
+    % Calculate the width of each subdivision
+    h = (b-a)/n;
+
+    % Calculate the x values for each subdivision
+    x = a:h:b;
+
+    % Calculate the y values for each subdivision
+    y = f(x);
+
+    % Calculate the integral using Simpson's method
+    I = (h/3)*(y(1) + 4*sum(y(2:2:end-1)) + 2*sum(y(3:2:end-2)) + y(end));
+
+    % Display the result
+    disp(I)
+    
+    
