@@ -20,8 +20,12 @@ Profesor: Ing. Jose Saavedra <br>
 Lenguajes: Java y MySQL <br>
 
 Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%204/Logica%20Simbolica">Logica Simbolica</a><br>
-Profesor: Ing. Mayerlin Maldonado <br>
+Profesora: Ing. Mayerlin Maldonado <br>
 Lenguajes: Python y Java <br>
+
+Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%204/Fundamentos%20de%20Electronica">Fundamentos de Electrónica</a><br>
+Profesor: Ing. Eduardo Herrera <br>
+Software: Proteus<br>
                                                   
 <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%205">5to Semestre (Marzo 2023 - Julio 2023) 2023-1CR</a>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
