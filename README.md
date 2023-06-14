@@ -35,7 +35,7 @@ Lenguaje: Python <br>
 
 Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%205/Programacion%20Web">Programacion Web</a> <br>
 Profesor: Ing. Jose Miranda <br>
-Lenguajes y Frameworks: HTML, CSS, JavaScript<br>   
+Lenguajes y Frameworks: HTML, CSS, JavaScript, PHP, MySQL, AJAX, Bootstrap, jQuery<br>   
 
 Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%205/Estructuras%20Discretas%201">Estructuras Discretas 1<a><br>
 Profesor: Ing. Susan Leon <br>
