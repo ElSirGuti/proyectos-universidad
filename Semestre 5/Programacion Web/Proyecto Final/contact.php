@@ -19,7 +19,7 @@
     <!-- JavaScript -->
     <script src="js/jquery-1.10.2.js"></script>
     <script src="js/bootstrap.js"></script>
-    <script src="js/contacto.js"></script>
+    <script src="js/correo.js"></script>
 
 </head>
 
@@ -49,7 +49,7 @@
                 <div class="col-md-4">
                     <p>Teléfono: <a href="https://wa.me/584120383584/?text=Muy%20buenas%20Dr.%20F%C3%A9lix%20Gonz%C3%A1lez%21%20Mi%20nombre%20es%20%28inserte%20su%20nombre%29%20y%20quisiera%20preguntarle%20sobre%20disponibilidad%20para%20una%20cita%20el%20d%C3%ADa%20%28ingrese%20la%20fecha%29." target="_blank"><strong>0412.038.3584</strong></a>
                     </p>
-                    <p>Email: <a href="mailto:citas@felixdocvzla.com?subject=[Cita] Solicitud de cita/informacion&body=Muy buenas Dr. Félix González! Mi nombre es (inserte su nombre) y quisiera preguntarle sobre disponibilidad para una cita el día (ingrese la fecha)."><strong>citas@felixdocvzla.com</strong></a>
+                    <p>Email: <a href="mailto:frgp.ch@gmail.com?subject=[Cita] Solicitud de cita/informacion&body=Muy buenas Dr. Félix González! Mi nombre es (inserte su nombre) y quisiera preguntarle sobre disponibilidad para una cita el día (ingrese la fecha)."><strong>frgp.ch@gmail.com</strong></a>
                     </p>
                     <p>Dirección: <strong>Centro Policlínico La Viña<br>Torre B Consultorio 323<br>Av. 105<br>Valencia, Carabobo 2001</strong>
                     </p>
@@ -58,8 +58,8 @@
                 <div class="clearfix"></div>
             </div>
         </div>
-
-        <!-- <div class="row">
+        
+        <div class="row">
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
@@ -68,30 +68,33 @@
                     <hr>
                     <p>Agendar tu cita o pedir información es ahora más fácil, tan solo tienes que rellenar los campos inferiores con tus datos y te responderé en el menor tiempo posible.</p>
                     <div id="add_err2"></div>
-                    <form role="form">
+                    <form role="form" action="https://formbold.com/s/3wkk8" method="post">
                         <div class="row">
                             <div class="form-group col-lg-6">
                                 <label>Nombre Completo</label>
-                                <input type="text" id="nombre" name="nombre" class="form-control" maxlength="50">
+                                <input type="text" name="Nombre" class="form-control" maxlength="50" required="">
                             </div>
                             
                             <div class="form-group col-lg-6">
                                 <label>Correo Electrónico</label>
-                                <input type="email" id="email" name="email" class="form-control" maxlength="50">
+                                <input type="email" name="Email" class="form-control" maxlength="50" required="">
+                            </div>
+
+                            <div class="form-group col-lg-12">
+                                <label>Asunto</label>
+                                <input type="text" name="Asunto" class="form-control" maxlength="50" required="">
                             </div>
                             
                             <div class="form-group col-lg-12">
                                 <label>Mensaje</label>
-                                <textarea class="form-control" id="mensaje" name="mensaje" rows="6" style="resize: vertical;" maxlength="5000"></textarea>
+                                <textarea class="form-control" name="Mensaje" rows="6" required="" style="resize: vertical;" maxlength="5000"></textarea>
                             </div>
                             <div class="form-group col-lg-12">
-                                <button type="submit" id="contact" class="btn btn-default">Enviar</button>
+                                <button type="submit" name="enviar"class="btn btn-default">Enviar</button>
                             </div>
                         </div>
                     </form>
-                </div>
-            </div>
-        </div> -->
+        </div>
 
     </div>
 
