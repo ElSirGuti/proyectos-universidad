@@ -45,9 +45,6 @@ Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/S
 Profesor: Ing. Alexander Deyan <br>
 Lenguaje: MATLAB <br>
 
-Sin Cursar
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 6to Semestre (Julio 2023 - Noviembre 2023) 2023-2CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Sistema de Bases de Datos <br>
@@ -56,12 +53,14 @@ Lenguaje: <br>
 
 Materia: Sistema de Programas <br>
 Profesor: Ing. Rosa Ortega <br>
-Lenguaje: <br>
+Lenguaje: Java <br>
 
 Materia: Estructuras Discretas 2<br>
 Profesor: Ing. Susan Leon <br>
-Lenguaje: <br>   
+Lenguaje: <br>  
 
+Sin Cursar
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 7mo Semestre (Noviembre 2023 - Abril 2024) 2023-3CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Programacion Matematica <br>
