@@ -47,17 +47,13 @@ Lenguaje: MATLAB <br>
 
 6to Semestre (Julio 2023 - Noviembre 2023) 2023-2CR
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Materia: Sistema de Bases de Datos <br>
-Profesor: Ing. Juan Perez <br>
-Lenguaje: <br>
-
 Materia: Sistema de Programas <br>
 Profesor: Ing. Rosa Ortega <br>
 Lenguaje: Java <br>
 
 Materia: Estructuras Discretas 2<br>
 Profesor: Ing. Susan Leon <br>
-Lenguaje: <br>  
+Lenguaje: Python, C# (Unity) <br>  
 
 Sin Cursar
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
