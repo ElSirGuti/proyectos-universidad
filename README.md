@@ -51,7 +51,7 @@ Materia: Sistema de Programas <br>
 Profesor: Ing. Rosa Ortega <br>
 Lenguaje: Java <br>
 
-Materia: Estructuras Discretas 2<br>
+Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%206/Estructuras%20Discretas%202">Estructuras Discretas 2</a><br>
 Profesor: Ing. Susan Leon <br>
 Lenguaje: Python, C# (Unity) <br>  
 
