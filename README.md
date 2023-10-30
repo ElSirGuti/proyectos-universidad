@@ -39,7 +39,7 @@ Lenguajes y Frameworks: HTML, CSS, JavaScript, PHP, MySQL, AJAX, Bootstrap, jQue
 
 Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%205/Estructuras%20Discretas%201">Estructuras Discretas 1<a><br>
 Profesor: Ing. Susan Leon <br>
-Lenguaje: <br>   
+Lenguaje: Python <br>   
 
 Materia: <a href="https://github.com/ElSirGuti/proyectos-universidad/tree/main/Semestre%205/Calculo%20Numerico">Calculo Numerico</a> <br>
 Profesor: Ing. Alexander Deyan <br>
