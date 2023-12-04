@@ -63,7 +63,7 @@ Profesor: Ing. Alexander Deyan <br>
 Lenguaje: <br>
 
 Materia: Lenguaje de Programacion <br>
-Profesor: Ing. Susan Leon <br>
+Profesor: Ing. Jose Saavedra <br>
 Lenguaje: <br>
 
 Materia: Traductores e Interpretadores <br>
@@ -83,7 +83,7 @@ Lenguaje: <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Trabajo de Grado 1 <br>
 Profesor: <br>
-Lenguajes: Python y SQL (Posiblemente) <br>
+Lenguajes: (Posiblemente) <br>
 
 Materia: Ingenieria del Software <br>
 Profesor: Ing. Alexander Deyan <br>
@@ -93,4 +93,4 @@ Lenguajes: <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Materia: Trabajo de Grado 2 <br>
 Profesor: <br>
-Lenguajes: Python y SQL (Posiblemente) <br>
+Lenguajes: <br>
