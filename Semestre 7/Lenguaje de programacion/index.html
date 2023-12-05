@@ -22,7 +22,7 @@
     <section class="ejercicio_2" id="ejercicio_2">
         <form action="">
             <h2>Ejercicio 2</h2>
-            <input type="text" class="box" placeholder="Introduce números separados por comas" oninput="this.value = this.value.replace(/[^0-9,]/g, '');"><br><br>
+            <input type="text" id="valor" class="box" placeholder="Introduce números separados por comas" oninput="this.value = this.value.replace(/[^0-9,]/g, '');"><br><br>
             <input type="submit" value="Evaluar" id="enviar" onclick="ejercicio2()" disabled>
         </form>
         <p id="res_2"></p>

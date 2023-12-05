@@ -62,25 +62,23 @@ function ejercicio1(){
 function ejercicio2() {
     event.preventDefault();
 
-    const input = input1.value.trim();
-    if (input === '') {
-        document.getElementById("res_2").innerHTML = "La entrada está vacía";
-        return;
-    }
+    // var input = document.querySelector('#valor').value;
+    // if (input === '') {
+    //     document.getElementById("res_2").innerHTML = "La entrada está vacía";
+    //     return;
+    // }
 
-    const numbers = input.value.split(',').map(Number);
+    const numbers = input.split(',').map(Number);
     console.log(numbers);
-    
+
     const allEven = !numbers.some((number) => number % 2 !== 0);
     const lastEvenNumber = numbers.filter((number) => number % 2 === 0).pop();
-    
+
     const result = allEven ? "Todos son pares" : lastEvenNumber ? `El último número par es ${lastEvenNumber}` : "No hay pares";
     console.log(result);
     document.getElementById("res_2").innerHTML = result;
 }
 
-
-  
 // Ejercicio 3: Se tienen dos (2) entradas
 // La primera entrada es un campo de texto que va a recibir un nombre
 // La segunda entrada es un campo de texto que va a recibir un apellido
@@ -118,6 +116,9 @@ let array2 = [];
 function array_1(){ // Función para almacenar los datos en el array1
     event.preventDefault();
 
+    // input1: Campo de texto para el nombre
+    // input2: Campo de texto para el apellido
+
     const nombre = document.getElementById("nombre").value;
     const apellido = document.getElementById("apellido").value;
 
@@ -128,6 +129,9 @@ function array_1(){ // Función para almacenar los datos en el array1
 
 function array_2(){ // Función para almacenar los datos en el array2
     event.preventDefault();
+
+    // input1: Campo de texto para el nombre
+    // input2: Campo de texto para el apellido
 
     const nombre = document.getElementById("nombre").value;
     const apellido = document.getElementById("apellido").value;
@@ -144,9 +148,23 @@ function array_2(){ // Función para almacenar los datos en el array2
     document.getElementById("array2").innerHTML = "Array 2: " + array2;
 }
 
-// Ejercicio 4
+// Ejercicio 4: Se tienen dos (2) entradas.
+// La primera entrada recibe una cadena de texto de varias palabras separadas por comas (,)
+// La segunda entrada recibe una sola letra
+// El modulo ejercicio4() evalua en cuantos registros se encuentra la letra de la segunda entrada y va a 
+// extraer del arreglo la primera y ultima palabra que contenga la letra de la segunda entrada
+
+// Casos de prueba y funcionamiento:
+// Caso 1: La letra se encuentra en dos o más palabras distintas
+// input1: Juan,jose,pepe,Martin
+// input2: j
+// salida:
+
 function ejercicio4(){
     event.preventDefault();
+
+    // input1: Cadena de texto
+    // input2: Letra que se va a buscar
 
     const strings = document.getElementById("string").value.split(",");
     const letter = document.getElementById("letra").value;
